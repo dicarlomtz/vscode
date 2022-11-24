@@ -1,0 +1,44 @@
+{
+  "background.fullscreen": {
+    "image": "https://www.xtrafondos.com/wallpapers/amanecer-anime-chica-silueta-paisaje-3721.jpg",
+    "opacity": 0.95,
+    "size": "cover",
+    "interval": 0
+  },
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
+  "editor.renderControlCharacters": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "none",
+  "editor.find.autoFindInSelection": "always",
+  "editor.suggestSelection": "first",
+  "editor.inlineSuggest.enabled": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Cascadia Code PL",
+  "editor.fontSize": 16,
+  "editor.linkedEditing": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "diffEditor.codeLens": true,
+  "files.autoSave": "afterDelay",
+  "workbench.editorAssociations": {
+    "*.ipynb": "default",
+    "*.CSV": "default"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "material-ui-snippets.showNotesOnStartup": false,
+  "workbench.colorTheme": "Palenight (Mild Contrast)",
+  "sync.autoUpload": true,
+  "sync.forceUpload": true,
+  "sync.gist": "034495787f2fa6a7ad941f62a4126bd6",
+  "vscode-pets.petType": "totoro",
+  "vscode-pets.petColor": "gray",
+  "vscode-pets.petSize": "medium"
+}
