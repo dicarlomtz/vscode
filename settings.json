@@ -19,6 +19,12 @@
   "editor.fontSize": 16,
   "editor.linkedEditing": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": null
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
   "diffEditor.codeLens": true,
   "files.autoSave": "afterDelay",
   "workbench.editorAssociations": {
@@ -34,11 +40,11 @@
   "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-ui-snippets.showNotesOnStartup": false,
-  "workbench.colorTheme": "Palenight (Mild Contrast)",
   "sync.autoUpload": true,
   "sync.forceUpload": true,
   "sync.gist": "034495787f2fa6a7ad941f62a4126bd6",
   "vscode-pets.petType": "totoro",
   "vscode-pets.petColor": "gray",
-  "vscode-pets.petSize": "medium"
+  "vscode-pets.petSize": "medium",
+  "workbench.colorTheme": "Palenight Theme"
 }
