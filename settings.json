@@ -5,8 +5,9 @@
     "size": "cover",
     "interval": 0
   },
-  "typescript.suggest.paths": false,
-  "javascript.suggest.paths": false,
+  "typescript.suggest.paths": true,
+  "javascript.suggest.paths": true,
+  "files.insertFinalNewline": true,
   "editor.renderControlCharacters": true,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
@@ -19,6 +20,7 @@
   "editor.fontSize": 16,
   "editor.linkedEditing": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [80],
   "[javascript]": {
     "editor.defaultFormatter": null
   },
@@ -37,14 +39,11 @@
     "**/.settings": true,
     "**/.factorypath": true
   },
-  "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "material-ui-snippets.showNotesOnStartup": false,
-  "sync.autoUpload": true,
-  "sync.forceUpload": true,
-  "sync.gist": "034495787f2fa6a7ad941f62a4126bd6",
   "vscode-pets.petType": "totoro",
   "vscode-pets.petColor": "gray",
   "vscode-pets.petSize": "medium",
-  "workbench.colorTheme": "Palenight Theme"
+  "workbench.colorTheme": "Palenight Operator",
+  "workbench.iconTheme": "material-icon-theme"
 }
